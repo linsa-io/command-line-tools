@@ -112,6 +112,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [eureka](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal.
 - [cb](https://github.com/Slackadays/Clipboard) - Powerful clipboard manager for all platforms.
+- [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) - Terminal-native LifeOS for managing intentions, habits, and timelogs.
 
 ## Python
 
