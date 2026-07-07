@@ -129,6 +129,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [project init](https://github.com/vmchale/project-init) - Project templates in rust.
 - [rustup](https://github.com/rust-lang-nursery/rustup.rs) - Rust toolchain installer.
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Local-first memory lifecycle CLI for AI agents with SQLite/FTS recall, forgetting, audit, consolidation, and TUI.
 
 ## Static website engines
 
