@@ -112,6 +112,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [eureka](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal.
 - [cb](https://github.com/Slackadays/Clipboard) - Powerful clipboard manager for all platforms.
+- [codex-profiles](https://github.com/Ducksss/codex-profiles) - Launch Codex CLI and Desktop with isolated CODEX_HOME profiles.
 
 ## Python
 
