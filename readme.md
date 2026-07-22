@@ -110,8 +110,9 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Productivity
 
-- [eureka](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal.
 - [cb](https://github.com/Slackadays/Clipboard) - Powerful clipboard manager for all platforms.
+- [eureka](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal.
+- [kaydet](https://github.com/miratcan/kaydet) - Queryable personal database and terminal diary with SQLite FTS5 search, tags, metadata, and AI integration.
 
 ## Python
 
