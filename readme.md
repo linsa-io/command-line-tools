@@ -149,6 +149,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 - [preact](https://github.com/developit/preact-cli) - Create preact app.
+- [prerenderbuddy cli](https://github.com/kopachlager/prerenderbuddy-cli) - CLI utility for crawler visibility checks and raw-vs-rendered website comparisons for SEO and bot indexing workflows.
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [urlsup](https://github.com/simeg/urlsup) - CLI to validate URLs in files.
 
