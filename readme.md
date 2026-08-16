@@ -448,6 +448,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [fzwiki](https://github.com/sheepla/fzwiki) - Command with fzf-like UI to quickly search Wikipedia articles and open it in your browser.
 - [Untree](https://github.com/codeinred/untree) - Converts tree diagrams produced by tree back into directory file structures.
 - [IDNT](https://github.com/r-darwish/idnt) - Batch software uninstall.
+- [capcut-cli](https://github.com/renezander030/capcut-cli) - Edit CapCut and JianYing video project drafts from the terminal.
 
 ## Related
 
