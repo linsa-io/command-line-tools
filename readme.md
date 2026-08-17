@@ -116,6 +116,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Python
 
 - [livepython](https://github.com/agermanidis/livepython) - Visually trace python code in real-time.
+- [pythonlings](https://github.com/abhiksark/pythonlings) - Learn Python by fixing small exercises in an interactive terminal TUI.
 - [rq](https://github.com/rq/rq) - Simple job queues for Python.
 - [tg](https://github.com/paul-nameless/tg) - Telegram terminal client.
 - [visa-cli](https://github.com/rand-net/visa-cli) - Visa Requirements terminal interface.
