@@ -83,6 +83,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [time](https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man3/time.3.html)
 - [switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
 - [displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
+- [Raccoon](https://github.com/thousandflowers/Raccoon) - Security audits, system reports and SSH fleet management.
 
 ## Networking
 
