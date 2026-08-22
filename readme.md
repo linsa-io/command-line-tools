@@ -115,6 +115,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Python
 
+- [chamnan](https://github.com/ArcticFox2029/chamnan) - Indexes a repository into markdown context files for coding agents.
 - [livepython](https://github.com/agermanidis/livepython) - Visually trace python code in real-time.
 - [rq](https://github.com/rq/rq) - Simple job queues for Python.
 - [tg](https://github.com/paul-nameless/tg) - Telegram terminal client.
