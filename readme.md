@@ -51,6 +51,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [git](https://www.explainshell.com/explain/git) - The stupid content tracker.
 - [hub](https://github.com/github/hub) - Wrapper around Git to extend it with features.
 - [tig](https://jonas.github.io/tig/) - Text-mode interface for git.
+- [Gitside](https://github.com/dev-bhaskar8/gitside) - Responsive, mouse-friendly Git source-control TUI for full terminals and narrow tmux panes.
 
 ## Go
 
