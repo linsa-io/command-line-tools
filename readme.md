@@ -44,6 +44,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Games
 
 - [love](https://love2d.org/) - Framework to make 2D games in Lua.
+- [VibeWorld](https://github.com/SorBalda/vibeworld) - Multiplayer cyberpunk social world for the terminal, with voice chat and a moon you fly to and scream at.
 
 ## Git
 
