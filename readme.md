@@ -112,6 +112,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [eureka](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal.
 - [cb](https://github.com/Slackadays/Clipboard) - Powerful clipboard manager for all platforms.
+- [persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks and AI chat from the terminal, stored as plain Markdown files.
 
 ## Python
 
