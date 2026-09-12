@@ -176,6 +176,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [termdash](https://github.com/mum4k/termdash) - Terminal based dashboard.
 - [yq](https://github.com/mikefarah/yq) - Portable command-line YAML processor.
 - [squeeze](https://github.com/aymericbeaumet/squeeze) - Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc).
+- [orcareplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records an AI coding agent's session and replays it offline, serving the recorded model responses back so the run happens again without the network.
 - [amber](https://github.com/dalance/amber) - Code search / replace tool.
 - [Pueue](https://github.com/Nukesor/pueue) - Daemon for managing long running shell commands.
 - [mmv](https://github.com/itchyny/mmv) - Rename multiple files using your \$EDITOR.
