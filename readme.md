@@ -449,6 +449,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Untree](https://github.com/codeinred/untree) - Converts tree diagrams produced by tree back into directory file structures.
 - [IDNT](https://github.com/r-darwish/idnt) - Batch software uninstall.
 - [capcut-cli](https://github.com/renezander030/capcut-cli) - Edit CapCut and JianYing video project drafts from the terminal.
+- [agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI that runs coding-agent CLIs such as Claude Code, Codex, and Gemini CLI side by side, each in its own persistent tmux session.
 
 ## Related
 
