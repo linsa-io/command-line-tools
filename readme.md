@@ -118,6 +118,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [livepython](https://github.com/agermanidis/livepython) - Visually trace python code in real-time.
 - [rq](https://github.com/rq/rq) - Simple job queues for Python.
 - [tg](https://github.com/paul-nameless/tg) - Telegram terminal client.
+- [tlgr](https://github.com/tlgrcli/tlgr) - Telegram client for scripts and AI agents, with JSON output, a background daemon and webhook event push.
 - [visa-cli](https://github.com/rand-net/visa-cli) - Visa Requirements terminal interface.
 
 ## Ruby
