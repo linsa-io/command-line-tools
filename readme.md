@@ -112,6 +112,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [eureka](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal.
 - [cb](https://github.com/Slackadays/Clipboard) - Powerful clipboard manager for all platforms.
+- [aisw](https://github.com/burakdede/aisw) - Switch Claude Code, Codex CLI, Gemini CLI and Antigravity CLI accounts with named profiles in one command.
 
 ## Python
 
