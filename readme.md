@@ -49,6 +49,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts.
 - [git](https://www.explainshell.com/explain/git) - The stupid content tracker.
+- [git-barber](https://github.com/rekurt/git-barber) - Review and remove merged Git branches, including squash and rebase merges, from a terminal interface.
 - [hub](https://github.com/github/hub) - Wrapper around Git to extend it with features.
 - [tig](https://jonas.github.io/tig/) - Text-mode interface for git.
 
