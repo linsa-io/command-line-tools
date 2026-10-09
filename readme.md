@@ -95,6 +95,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [bandwhich](https://github.com/imsnif/bandwhich) - CLI utility for displaying current network utilization by process, connection and remote IP/hostname.
 - [httpie](https://github.com/httpie/httpie) - Modern, user-friendly command-line HTTP client for the API era.
 - [http-prompt](https://github.com/httpie/http-prompt) - Interactive command-line HTTP and API testing tool built on top of HTTPie with autocomplete, syntax highlighting, and more.
+- [prt](https://github.com/rekurt/prt) - Inspect local network ports and their owning processes on macOS and Linux, with a terminal interface and JSON/CSV export.
 
 ## Nix
 
