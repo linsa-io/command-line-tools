@@ -449,6 +449,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Untree](https://github.com/codeinred/untree) - Converts tree diagrams produced by tree back into directory file structures.
 - [IDNT](https://github.com/r-darwish/idnt) - Batch software uninstall.
 - [capcut-cli](https://github.com/renezander030/capcut-cli) - Edit CapCut and JianYing video project drafts from the terminal.
+- [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - Benchmarks a Linux server's CPU, memory and disk IOPS in about a minute.
 
 ## Related
 
