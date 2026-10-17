@@ -270,6 +270,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [pv](https://github.com/icetee/pv) - Pipe Viewer.
 - [rclone](https://rclone.org/docs/) - Rsync for cloud storage.
 - [rename](http://plasmasturm.org/code/rename/) - Renames files according to modification rules specified on the command line.
+- [RowSafe](https://github.com/rowsafe/rowsafe) - PostgreSQL health checks, query and index diagnostics, and tuning recommendations.
 - [scipy](https://github.com/scipy/scipy) - Open-source software for mathematics, science, and engineering.
 - [scons](https://github.com/SCons/scons) - Software construction tool.
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust.
