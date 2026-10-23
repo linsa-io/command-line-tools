@@ -368,6 +368,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [url-parser](https://github.com/herloct/url-parser) - Command-line URL parser, written in Go.
 - [luneta](https://github.com/fbeline/luneta) - Interactive filter that can be easily composed within any script.
 - [spin](https://github.com/egoist/spin) - Simple scaffolding tool.
+- [flisk](https://github.com/flisk-sh/flisk) - Generates and runs your whole tech stack in one command, from an empty folder to a running stack.
 - [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths.
 - [wifi-password](https://github.com/bradyjoslin/wifi-password) - Quickly share Wi-Fi connection info.
 - [delta](https://github.com/dandavison/delta) - Syntax-highlighter for git and diff output.
