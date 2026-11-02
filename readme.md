@@ -112,6 +112,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [eureka](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal.
 - [cb](https://github.com/Slackadays/Clipboard) - Powerful clipboard manager for all platforms.
+- [oops](https://github.com/ysb3996-blip/oops) - Copy the last shell command and its output to the clipboard as a Markdown code block, with secrets masked.
 
 ## Python
 
